@@ -152,7 +152,7 @@ a:active {color:#ecf0f1;text-decoration:none;}
 .content a:active {color:#62baa7;text-decoration:none; display: inline;}
 
 .page, #post .post {
-    width:960px;
+    width:640px;
     margin:0 auto;
     background:#ecf0f1;
     color: #2c3e50;
