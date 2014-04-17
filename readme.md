@@ -14,7 +14,7 @@ YOU CANNOT USE THIS TEMPLATE FOR BOTH BUT NOT LIMITED TO PERSONAL AND COMMERCIAL
 
 > V1.1
 > 
-> Some smalle change's for the post and page width, it is now fixed at 640px and centered!
+> Some small change's for the post and page width, it is now fixed at 640px and centered!
 > 
 > V1.0
 > 
