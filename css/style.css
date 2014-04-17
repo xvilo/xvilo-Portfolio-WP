@@ -152,8 +152,7 @@ a:active {color:#ecf0f1;text-decoration:none;}
 .content a:active {color:#62baa7;text-decoration:none; display: inline;}
 
 .page, #post .post {
-    width:640px;
-    margin:0 auto;
+    margin:0 10%;
     background:#ecf0f1;
     color: #2c3e50;
 }
@@ -310,7 +309,15 @@ a:active {color:#ecf0f1;text-decoration:none;}
 
 }
 /* Low screens */
+
 @media (min-width:1025px) {
+    .page, #post .post {
+    width:640px;
+    margin:0 auto;
+    background:#ecf0f1;
+    color: #2c3e50;
+}
+
     article {
         width:33.333333333%;
         float:left;
